@@ -1,0 +1,9 @@
+names:
+- coca cola
+- heineken
+- pepsi
+- schweppes
+- sprite
+nc: 5
+test: ../114/test/images
+train: ../114/train/images
