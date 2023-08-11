@@ -1,0 +1,8 @@
+names:
+- coca cola
+- pepsi
+- schweppes
+- sprite
+nc: 4
+test: ../114/test/images
+train: ../114/train/images
