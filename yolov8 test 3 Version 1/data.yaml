@@ -4,5 +4,5 @@ names:
 - schweppes
 - sprite
 nc: 4
-test: ../115/test/images
-train: ../115/train/images
+test: ../118/test/images
+train: ../118/train/images
