@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['scissors']
+
+roboflow:
+  workspace: test-2lq5m
+  project: scissors_test
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/test-2lq5m/scissors_test/dataset/2
