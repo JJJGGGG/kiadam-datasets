@@ -1,0 +1,6 @@
+names:
+- scissors
+nc: 1
+test: ../120/test/images
+train: ../120/train/images
+val: ../120/val/images
